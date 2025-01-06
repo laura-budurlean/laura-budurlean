@@ -22,7 +22,7 @@ I'm a bioinformatics scientist/computational biologist/data scientist with a pas
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://linkedin.com/in/laurabudurlean)
 
 ## 💬 Fun Fact
- I love the Sherlock Holmes stories by Sir Arthur Conan Doyle. My favorie is, The Adventure of the Bruce Partington Plans, a 10/10 story. The Speckled Band is a close second.
+ I love the Sherlock Holmes stories by Sir Arthur Conan Doyle. My favorite is, The Adventure of the Bruce Partington Plans, a 10/10 story. The Speckled Band is a close second.
 
 ## 
 <div align="center">
