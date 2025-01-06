@@ -8,8 +8,8 @@ I'm a bioinformatics scientist/computational biologist/data scientist with a pas
 
 
 ## ⚡ Current Projects
-[![Drug_Discovery_Pipeline](https://img.shields.io/badge/Drug_Discovery_Pipeline-blue)](https://github.com/laura-budurlean/Drug-Discovery-with-Python-and-Machine-Learning) Developing a machine learning pipeline for predicting drug efficacy in Philadelphia-positive leukemia 
-[![AI_Powered_Bioinformatics](https://img.shields.io/badge/AI_Powered_Bioinformatics-darkgreen)](https://www.biostarhandbook.com/appbio/) Taking a wonderful course from Penn State looking at AI's role in bioinformatics 
+- [![Drug_Discovery_Pipeline](https://img.shields.io/badge/Drug_Discovery_Pipeline-blue)](https://github.com/laura-budurlean/Drug-Discovery-with-Python-and-Machine-Learning) Developing a machine learning pipeline for predicting drug efficacy in Philadelphia-positive leukemia 
+- [![AI_Powered_Bioinformatics](https://img.shields.io/badge/AI_Powered_Bioinformatics-darkgreen)](https://www.biostarhandbook.com/appbio/) Taking a wonderful course from Penn State looking at AI's role in bioinformatics 
 
 ## 🌱 Skills
 - **Programming Languages**: R, Bash, Python, SQL
