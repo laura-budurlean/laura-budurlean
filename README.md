@@ -1,5 +1,5 @@
 <a href="https://linkedin.com/in/laura-budurlean">
-  <img src="https://raw.githubusercontent.com/laura-budurlean/laura-budurlean/main/github%20headline.png" alt="GitHub Headline" style="width:100%;">
+  <img src="https://github.com/laura-budurlean/laura-budurlean/blob/main/github%20headline%20photo%20cover(1).png" alt="GitHub Headline" style="width:100%;">
 </a>
 
 ## 📝 Quick Bio
