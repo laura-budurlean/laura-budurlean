@@ -3,7 +3,7 @@
 </a>
 
 ## 📝 Quick Bio
-I'm a bioinformatics scientist/computational biologist/data scientist with a passion for NGS workflows, oncology, drug discovery and all things bioinformatics. I have a PhD in Biomedical Science and I love working with large datasets and using my skills to turn DNA into good stories.
+I'm a bioinformatics scientist with a passion for marketing, NGS workflows, and data-driven discoveries. I have a PhD in Biomedical Science and I love working with large datasets and using my skills to turn data into good stories, content, and interesting insights.
 
 
 
